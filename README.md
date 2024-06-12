@@ -10,6 +10,7 @@ Fit the K-Means model: Fit a K-Means model with the optimal number of clusters (
 Assigned cluster labels: Assigned cluster labels to each data point using the fitted K-Means model.
 Visualized the clusters: Visualized the clusters using a scatter plot, with each cluster represented by a different color.
 Analyzed cluster characteristics: Analyzed the characteristics of each cluster by calculating descriptive statistics (mean, std, min, 25%, 50%, 75%, max) for each feature within each cluster.
+
 Knowledge Gained:
 
 Data preprocessing: Learned how to select relevant features and standardize them using StandardScaler.
